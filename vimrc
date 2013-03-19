@@ -52,4 +52,6 @@
  " Copy & Paste
  set clipboard=unnamed
 
- autocmd FileType javascript setlocal shiftwidth=2 tabstop=2
+ set shiftwidth=2
+ set tabstop=2
+
