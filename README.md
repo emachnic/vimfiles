@@ -17,3 +17,10 @@ To set things up, follow these steps (assuming in home directory):
         $ ln -s /Users/username/vimfiles/vim /Users/username/.vim
         
 3. Open Vim and run `:BundleInstall` to install the bundles
+
+4. Reopen Vim and you're good to go.
+
+## Caveats
+
+- If you aren't using Solarized color theme in your terminal, it will likely look
+odd. Easiest thing to do is change the `colorscheme` line in `.vimrc`
