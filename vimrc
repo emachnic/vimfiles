@@ -25,6 +25,7 @@ Bundle 'honza/snipmate-snippets'
 Bundle 'jwhitley/vim-matchit'
 Bundle "pangloss/vim-javascript"
 Bundle 'cespare/vim-toml'
+Bundle 'skalnik/vim-vroom'
 
 filetype plugin indent on     " required!
 
